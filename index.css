@@ -1,0 +1,57 @@
+/* 顶部导航栏 样式 */
+body {
+    background-color: #f5f5f5;
+}
+.head {
+    height: 80px;
+    background-image: linear-gradient(to bottom right, #7471ef , #539bf4);
+    line-height: 80px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 2px 2px 2px #ccc;
+    margin-bottom: 20px;
+}
+.head-pic {
+    height: 60px;
+    width: 60px;
+    margin: 0px 10px 0 100px;
+    border-radius: 50%;
+}
+
+.center {
+    padding: 0 100px;
+}
+
+.card-img-right {
+    width: 200px;
+    height: 300px;
+}
+.carousel-pic {
+    width: 100%;
+    height: 900px;
+    margin-bottom: 40px;
+}
+
+.carousel-indicators {
+    top: 850px !important;
+}
+
+.control-prev-icon {
+    width: 40px !important;
+    height: 40px;
+    font-size: 40px;
+}
+.title {
+    font-style: italic!important;
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+}
+
+.marketing {
+    background-color: #fff;
+    margin: 10px 100px;
+    padding: 20px;
+}
+.marketing .col-lg-4 {  margin-bottom: 20px; text-align: center;}
+.marketing h2 {  font-weight: 400;}
+/* .marketing .col-lg-4 p {  margin-right: 15px;  margin-left: 15px;} */
